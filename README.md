@@ -1,2 +1,2 @@
 # supabase-svelte
-superbase-svelte-app
+supabase-svelte-app
